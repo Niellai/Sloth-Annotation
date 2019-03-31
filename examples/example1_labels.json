@@ -1,0 +1,68 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "Non_Critical",
+                "height": 130.20735789293818,
+                "id": "Crack",
+                "type": "Non_Critical",
+                "width": 107.73321118812964,
+                "x": 621.0712605249463,
+                "y": 53.86660559406484
+            },
+            {
+                "class": "Critical",
+                "height": 123.07270814537992,
+                "id": "Blowholes_adhesive_bottom",
+                "type": "Critical",
+                "width": 121.28904570849039,
+                "x": 292.1639071625106,
+                "y": 62.784917778512664
+            },
+            {
+                "class": "Non_Critical",
+                "height": 196.55960054522998,
+                "id": "Discoloration",
+                "type": "Non_Critical",
+                "width": 107.37647870075182,
+                "x": 616.0770057016555,
+                "y": 200.1269254190091
+            },
+            {
+                "class": "Critical_Region",
+                "height": 146.6170523123222,
+                "id": "Critical_Region",
+                "type": "Critical_Region",
+                "width": 83.47540204643161,
+                "x": 156.96229444628165,
+                "y": 182.64703353749138
+            },
+            {
+                "class": "Critical_Region",
+                "height": 87.04272692021075,
+                "id": "Critical_Region",
+                "type": "Critical_Region",
+                "width": 220.46067719955013,
+                "x": 236.51363913155623,
+                "y": 210.11543506559067
+            }
+        ],
+        "class": "image",
+        "filename": "image1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Critical_Region",
+                "height": 119.86211575897869,
+                "id": "Critical_Region",
+                "type": "Critical_Region",
+                "width": 254.70699598782988,
+                "x": 485.51291532133945,
+                "y": 434.14343713892004
+            }
+        ],
+        "class": "image",
+        "filename": "image2.jpg"
+    }
+]
